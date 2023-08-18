@@ -31,7 +31,7 @@ const IndexPage = () => {
         maxWidth={'500px'}
         image={'/banner1.png'}
         title={'Cars that glides you to your destination'}
-        subtitle={'Disover comfort in our luxurious service'}
+        subtitle={'Discover comfort in our luxurious service'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
@@ -39,12 +39,12 @@ const IndexPage = () => {
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-          This is a demonstration of the Sydney theme for verse by{' '}
-          <span className={styles.gold}>matter design.</span>
+          This is a demonstration of the GlideR for verse by{' '}
+          <span className={styles.gold}>Tahir.</span>
         </p>
         <p>
-          wear by <span className={styles.gold}>sunspel</span> and{' '}
-          <span className={styles.gold}>scotch&soda</span>
+          drive by <span className={styles.gold}>Someone</span> and{' '}
+          <span className={styles.gold}>Someone</span>
         </p>
       </div>
 
