@@ -129,7 +129,7 @@ const IndexPage = () => {
       {/* Social Media */}
       <div className={styles.socialContainer}>
         <Title
-          name={'Styled by You'}
+          name={'Styled by Tahir'}
           subtitle={'Tag @sydney to be featured.'}
         />
         <div className={styles.socialContentGrid}>
