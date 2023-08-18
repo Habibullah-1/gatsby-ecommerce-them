@@ -31,7 +31,7 @@ const IndexPage = () => {
         maxWidth={'500px'}
         image={'/banner1.png'}
         title={'Cars that glides you to your destination'}
-        subtitle={'Diacover comfort in our luxurious service'}
+        subtitle={'Disover comfort in our luxurious service'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
