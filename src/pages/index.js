@@ -78,7 +78,7 @@ const IndexPage = () => {
             altImage={'highlight image'}
             miniImage={'/highlightmin.png'}
             miniImageAlt={'mini highlight image'}
-            title={'Luxury Knitwear'}
+            title={'Luxury Sedan'}
             description={`This a German sedan that was engineered with the goal of gliding you to your destination in blissful comfort`}
             textLink={'shop now'}
             link={'/shop'}
