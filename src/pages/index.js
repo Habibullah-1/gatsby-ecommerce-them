@@ -79,7 +79,7 @@ const IndexPage = () => {
             miniImage={'/highlightmin.png'}
             miniImageAlt={'mini highlight image'}
             title={'Luxury Knitwear'}
-            description={`This soft lambswool jumper is knitted in Scotland, using yarn from one of the world's oldest spinners based in Fife`}
+            description={`This a German sedan that was engineered with the goal of gliding you to your destination in blissful comfort`}
             textLink={'shop now'}
             link={'/shop'}
           />
@@ -88,7 +88,7 @@ const IndexPage = () => {
 
       {/* Promotion */}
       <div className={styles.promotionContainer}>
-        <Hero image={'/banner2.png'} title={`-50% off \n All Essentials`} />
+        <Hero image={'/banner2.png'} title={`-5% off \n All Essentials`} />
         <div className={styles.linkContainers}>
           <Link to={'/shop'}>SEDAN</Link>
           <Link to={'/shop'}>SUV</Link>
@@ -130,7 +130,7 @@ const IndexPage = () => {
       <div className={styles.socialContainer}>
         <Title
           name={'Styled by Tahir'}
-          subtitle={'Tag @sydney to be featured.'}
+          subtitle={'Tag @glider to be featured.'}
         />
         <div className={styles.socialContentGrid}>
           <img src={`/social/socialMedia1.png`} alt={'social media 1'} />
