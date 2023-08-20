@@ -39,7 +39,7 @@ const IndexPage = () => {
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-          This is a demonstration of the GlideR for verse by{' '}
+          This is a demonstration of the Sydney for verse by{' '}
           <span className={styles.gold}>Tahir.</span>
         </p>
         <p>
@@ -130,7 +130,7 @@ const IndexPage = () => {
       <div className={styles.socialContainer}>
         <Title
           name={'Styled by Tahir'}
-          subtitle={'Tag @glider to be featured.'}
+          subtitle={'Tag @sydney featured.'}
         />
         <div className={styles.socialContentGrid}>
           <img src={`/social/socialMedia1.png`} alt={'social media 1'} />
