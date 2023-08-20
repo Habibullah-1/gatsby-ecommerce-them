@@ -75,8 +75,8 @@ const ShopPage = (props) => {
             filters={Config.filters}
           />
           <div className={styles.chipsContainer}>
-            <Chip name={'XS'} />
-            <Chip name={'S'} />
+            <Chip name={'Automatic'} />
+            <Chip name={'Manual'} />
           </div>
           <div className={styles.productContainer}>
             <span className={styles.mobileItemCount}>476 items</span>
