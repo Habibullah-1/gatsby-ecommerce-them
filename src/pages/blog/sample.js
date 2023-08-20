@@ -13,7 +13,7 @@ const SamplePage = (props) => {
           <div className={styles.blogContainer}>
             <Blog
               category={'design'}
-              title={'Friends of Glider: Tahir Alhassan'}
+              title={'Friends of Glider: This page contains filler'}
               image={'/blogFeatured.png'}
               alt={''}
             >
