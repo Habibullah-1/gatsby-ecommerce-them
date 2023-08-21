@@ -1,8 +1,8 @@
 [
     {
         "productCode": "MJUM8066-GYDZ",
-        "name": "Lambswool Crew Neck Jumper",
-        "vendor": "Sunspel",
+        "name": "Sedan",
+        "vendor": "Tahor",
         "price": 75,
         "alt": "lambswool crew neck jumper",
         "image": "/products/pdp1.jpeg",
@@ -20,7 +20,7 @@
             {"image": "/products/pdp3.jpeg", "alt": "pdp description 3"},
             {"image": "/products/pdp4.jpeg", "alt": "pdp description 4"}
         ],
-        "description": "This soft lambswool jumper is knitted in Scotland, using yarn from one of the world's oldest spinners based in Fife. Once knitted, the garment is washed in Scottish spring water to make it beautifully soft."
+        "description": "A piece of meticulous engineering kept in shape at your service."
     },
     {
         "name": "2022 model",
